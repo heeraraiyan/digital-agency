@@ -185,3 +185,45 @@ b{
     font-size: 14px;
     padding-top: 2px;
 }
+/* blogsec designs */
+
+
+.blog-title{
+    text-align: center;
+    margin-top: 50px;
+}
+.blog-content{
+    margin-top: 20px;
+    width: 50%;
+    margin: auto;
+    font-size: 20px;
+}
+.blog-titles{
+    margin-bottom: 15px;
+    font-size: 35px;
+}
+.boxes-last{
+    padding-top: 40px;
+    padding-left: 50px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.box-last{
+    height: 350px;
+    width: 220px;
+    border-radius: 5px;
+    background-color: bisque;
+    box-shadow: 4px 8px 4px 4px gray;
+    margin-bottom: 30px;
+    text-align: center;
+
+}
+.box-images{
+    width: 100%;
+    border-radius: 5px;
+    padding-bottom: 10px;
+}
+.last-box-txt{
+    padding-bottom: 10px;
+}
