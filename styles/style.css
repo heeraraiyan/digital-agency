@@ -227,3 +227,40 @@ b{
 .last-box-txt{
     padding-bottom: 10px;
 }
+/* footers designs */
+
+.last-container{
+    height: 60vh;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    
+    gap: 70px;
+    /* margin: auto; */
+    padding-left: 200px;
+}
+.last-description{
+    width: 300px;
+    padding-top: 20px;
+}
+.info{
+    padding-bottom: 8px;
+}
+.contact-information{
+    padding-bottom: 15px;
+
+}
+.sup{
+    padding-bottom: 8px;
+    
+}
+.use{
+    padding-bottom: 8px;
+}
+.use-link{
+    padding-bottom: 15px;
+}
+.supp{
+    padding-bottom: 15px;
+}
