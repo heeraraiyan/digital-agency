@@ -35,3 +35,41 @@ nav{
     font-size: 20px;
     font-weight: 500;
 }
+/* banner designs */
+.banner{
+    height: 100vh;
+    /* width: auto; */
+    background-image: url('../asset/image/background.jpg'), linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.4));
+    background-blend-mode: overlay;
+    background-repeat: no repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+}
+.banner-title{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+#banner-h1{
+    color: white;
+    font-size: 60px;
+    font-weight: 700;
+}
+.btn-primary{
+    padding: 15px 25px;
+    text-transform: uppercase;
+    margin-top: 30px;
+    border-radius: 5px;
+    border: none;
+}
+.bg{
+    background-color: red;
+    border: none;
+    color: white;
+}
+.banner-description{
+    color: white;
+    font-size: 20px;
+}
