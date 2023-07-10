@@ -2,3 +2,36 @@
     margin: 0px;
     padding: 0px;
 }
+.div-title{
+    display: flex;
+    padding: 15px 60px;
+    text-align: center;
+    align-items: center;
+    
+}
+#title-d{
+    color: tomato;
+    font-size: 25px;
+    font-weight: 600;
+}
+nav{
+    /* background-color: gray; */
+
+}
+.nav-container{
+    display: flex;
+    background-color: lightgray;
+    justify-content: space-around;
+    align-items: center;
+}
+.menus{
+    list-style: none;
+    display: flex;
+      align-items: center;
+    gap: 30px;
+}
+.menu-bar{
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+}
